@@ -14,7 +14,7 @@ Kelas Asik Gak Baperan
 - KATA KATA
 
 ## Logo MIA II
-![MIA 2 LOGO](MIA%202.png)
+![MIA 2 LOGO](MIA 02 LOGO.jpg)
 
 ## Social Media
 - [![Facebook](FBW.png)](https://www.facebook.com/akunFacebook)
